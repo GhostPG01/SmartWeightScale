@@ -1,0 +1,5 @@
+../Core/Src/max30102.c:27:9:max30102_write_reg	32	static
+../Core/Src/max30102.c:43:9:max30102_read_reg	32	static
+../Core/Src/max30102.c:59:9:Max30102_reset	8	static
+../Core/Src/max30102.c:74:6:MAX30102_Config	8	static
+../Core/Src/max30102.c:97:6:max30102_read_fifo	40	static

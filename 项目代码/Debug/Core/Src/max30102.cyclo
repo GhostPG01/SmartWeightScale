@@ -1,0 +1,2 @@
+../Core/Src/max30102.c:4:19:MAX30102_Init	7
+../Core/Src/max30102.c:55:19:MAX30102_ReadFIFO	1

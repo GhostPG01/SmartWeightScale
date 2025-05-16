@@ -1,0 +1,8 @@
+../Core/Src/spi.c:11:6:MX_SPI1_Init	8	static
+../Core/Src/spi.c:32:13:W25Q64_SPI_Transmit	16	static
+../Core/Src/spi.c:38:13:W25Q64_SPI_Receive	16	static
+../Core/Src/spi.c:43:6:W25Q64_WriteEnable	16	static
+../Core/Src/spi.c:51:9:W25Q64_IsBusy	16	static
+../Core/Src/spi.c:62:6:W25Q64_SectorErase	24	static
+../Core/Src/spi.c:76:6:W25Q64_WriteData	32	static
+../Core/Src/spi.c:91:6:W25Q64_ReadData	32	static

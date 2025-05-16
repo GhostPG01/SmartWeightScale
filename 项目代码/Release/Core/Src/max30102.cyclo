@@ -1,0 +1,5 @@
+../Core/Src/max30102.c:27:9:max30102_write_reg	1
+../Core/Src/max30102.c:43:9:max30102_read_reg	1
+../Core/Src/max30102.c:59:9:Max30102_reset	1
+../Core/Src/max30102.c:74:6:MAX30102_Config	1
+../Core/Src/max30102.c:97:6:max30102_read_fifo	2

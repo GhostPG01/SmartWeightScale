@@ -1,0 +1,4 @@
+../Core/Src/usart.c:33:6:MX_USART1_UART_Init	2
+D:\cubeide\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/stdio.h:220:5:fputc	1
+../Core/Src/usart.c:68:6:HAL_UART_MspInit	4
+../Core/Src/usart.c:137:6:HAL_UART_MspDeInit	2

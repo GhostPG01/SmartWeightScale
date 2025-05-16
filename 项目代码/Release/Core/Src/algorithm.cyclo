@@ -1,0 +1,10 @@
+../Core/Src/algorithm.c:94:8:my_floor	2
+../Core/Src/algorithm.c:114:8:my_fmod	3
+../Core/Src/algorithm.c:140:8:XSin	6
+../Core/Src/algorithm.c:174:8:XCos	1
+../Core/Src/algorithm.c:189:5:qsqrt	3
+../Core/Src/algorithm.c:220:14:EE	1
+../Core/Src/algorithm.c:237:6:FFT	7
+../Core/Src/algorithm.c:304:5:find_max_num_index	3
+../Core/Src/algorithm.c:331:5:dc_filter	1
+../Core/Src/algorithm.c:352:5:bw_filter	1

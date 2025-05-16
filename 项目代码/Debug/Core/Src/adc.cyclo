@@ -1,0 +1,6 @@
+../Core/Src/adc.c:31:6:MX_ADC1_Init	3
+../Core/Src/adc.c:73:6:ADC_Init	1
+../Core/Src/adc.c:79:6:HAL_ADC_MspInit	2
+../Core/Src/adc.c:114:6:HAL_ADC_MspDeInit	2
+../Core/Src/adc.c:141:10:ADC_ReadValue	2
+../Core/Src/adc.c:156:7:ADC_ConvertToVoltage	1

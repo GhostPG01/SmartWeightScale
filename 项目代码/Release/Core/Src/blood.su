@@ -1,0 +1,3 @@
+../Core/Src/blood.c:38:6:blood_data_update	32	static
+../Core/Src/blood.c:70:6:blood_data_translate	48	static
+../Core/Src/blood.c:172:6:blood_Loop	16	static

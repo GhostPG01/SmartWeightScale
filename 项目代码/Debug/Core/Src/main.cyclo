@@ -1,0 +1,8 @@
+../Core/Src/main.c:252:13:update_display_and_transmit	3
+../Core/Src/main.c:280:13:send_record	3
+../Core/Src/main.c:300:6:SaveRecordsToFlash	2
+../Core/Src/main.c:316:6:LoadRecordsFromFlash	2
+../Core/Src/main.c:332:6:HAL_UARTEx_RxEventCallback	8
+../Core/Src/main.c:367:6:SystemClock_Config	3
+../Core/Src/main.c:90:5:main	23
+../Core/Src/main.c:400:6:Error_Handler	1
