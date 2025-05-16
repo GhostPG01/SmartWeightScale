@@ -1,0 +1,20 @@
+智能体重秤项目介绍
+
+模块介绍
+1 stm32f103c8t6最小系统板
+2 W25Q64 flash存储模块
+3 HX711电子秤模块
+4 max30102心率血氧传感器模块
+5 BT24 BLE蓝牙模块
+6 OLED模块（ssd1306芯片驱动）
+7 电池模块（可充电）
+
+项目代码在cubeide平台完成开发
+代码整体基于hal库开发
+可通过.project文件导入项目根据注释进行二次开发
+
+蓝牙助手apk发送到手机进行下载
+使用方法参考b站视频https://www.bilibili.com/video/BV13f421X7se/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=1a29f4562ad67a0af289cb1d9b6a027e
+
+电脑可通过串口调试网站连接蓝牙https://serial.keysking.com/
+使用方法参考b站视频https://www.bilibili.com/video/BV1114y1D7a4/?spm_id_from=333.1387.upload.video_card.click&vd_source=1a29f4562ad67a0af289cb1d9b6a027e
